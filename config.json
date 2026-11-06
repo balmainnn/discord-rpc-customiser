@@ -1,0 +1,13 @@
+{
+    "client_id": "",
+    "presence": {
+        "state": "In a match",
+        "details": "Playing solo",
+        "large_image": "",
+        "large_text": "",
+        "small_image": "",
+        "small_text": "",
+        "use_start_timestamp": true,
+        "buttons": []
+    }
+}
